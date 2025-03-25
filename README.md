@@ -6,8 +6,10 @@
 <h2> { About Me } </h2>
 
 - **Software Engeneering** student at **UFLA**
+  
+- **UX/UI** Researcher and Digital Acessibility Reseacher at **UFLA**
 
-- **Learning** new languages
+- **Learning** new languages, technologies and tools on the digital world!
 
 <h2>{ Skills }</h2>
 
