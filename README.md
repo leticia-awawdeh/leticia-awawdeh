@@ -1,8 +1,5 @@
 <h1 align="center"> Letícia Awawdeh</h1>
 
-<div>
-<img align="right" width="500"  height="800" alt="teste" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg/200px-Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg"/>
-
 <h2> { About Me } </h2>
 
 - **Software Engeneering** student at **UFLA**
